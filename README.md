@@ -8,8 +8,8 @@ Minimum Coins <br>
 Target Sum <br>
 ## day3
 Unbounded Knapsack  
-Rod Cutting Proble
-Longest Common Subsequence 
-Print Longest Common Subsequence
+Rod Cutting Proble  
+Longest Common Subsequence    
+Print Longest Common Subsequence   
 
 
