@@ -12,5 +12,6 @@ Rod Cutting Proble
 Longest Common Subsequence    
 Print Longest Common Subsequence  
 ## day4
-
+RNN forward and back prop   
+Different architectures
 
