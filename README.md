@@ -19,6 +19,6 @@ GRU
 LSTM  
 BRNN  
 week 1 quiz  
-## day 6
-
+## day 6  
+RNN week 1 assignment 1 and 2
 
