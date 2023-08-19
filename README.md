@@ -14,4 +14,10 @@ Print Longest Common Subsequence
 ## day4
 RNN forward and back prop   
 Different architectures
+## day5
+GRU
+LSTM
+BRNN
+week 1 quiz
+
 
