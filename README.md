@@ -22,5 +22,5 @@ week 1 quiz
 ## day6  
 RNN week 1 assignment 1 and 2
 ## day7
-three questions from biweekly contest
+three questions from biweekly contest  
 RNN week 1 assignment 3
