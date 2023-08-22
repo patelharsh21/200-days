@@ -25,5 +25,5 @@ RNN week 1 assignment 1 and 2
 three questions from biweekly contest  
 RNN week 1 assignment 3
 ## day 8
-solved 3 questions from contest
+solved 3 questions from contest     
 explored datasets for the lip reading project
