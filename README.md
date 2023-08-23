@@ -28,4 +28,16 @@ RNN week 1 assignment 3
 solved 3 questions from contest     
 explored datasets for the lip reading project
 ## day 9
-differerent word empbedding methods such as wordtovec and neagtive sampling  
+differerent word empbedding methods such as wordtovec and negative sampling  
+## day 10 
+WSL install and using it in vscode  
+solved questions   
+longest common substring   
+check for palindrom   
+minimum insertion to make string palindrom  
+minimum insertion or deletion to make two strings equal  
+
+
+
+ 
+
