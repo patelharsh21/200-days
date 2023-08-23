@@ -27,3 +27,5 @@ RNN week 1 assignment 3
 ## day 8
 solved 3 questions from contest     
 explored datasets for the lip reading project
+## day 9
+differerent word empbedding methods such as wordtovec and neagtive sampling  
