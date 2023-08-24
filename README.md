@@ -36,6 +36,10 @@ longest common substring
 check for palindrom   
 minimum insertion to make string palindrom  
 minimum insertion or deletion to make two strings equal  
+## day 11
+applications using word embedding  
+quiz week 2    
+research paper related to AIFD project  
 
 
 
