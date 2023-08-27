@@ -41,6 +41,10 @@ applications using word embedding
 quiz week 2    
 research paper related to AIFD project    
 ## day 12  
+Learned about various sequence to sequence models    
+Speech recognition    
+
+
 
 
 
