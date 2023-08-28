@@ -43,6 +43,9 @@ research paper related to AIFD project
 ## day 12  
 Learned about various sequence to sequence models    
 Speech recognition    
+## day 13
+Trigger word detection   
+Attension mechanism and encoder circuit of tranformer   
 
 
 
