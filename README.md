@@ -47,6 +47,10 @@ Speech recognition
 Trigger word detection   
 Attension mechanism and encoder circuit of tranformer   
 
+## day 14
+Transformer complete architecture    
+Read lip reading transformer research paper
+
 
 
 
