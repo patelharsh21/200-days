@@ -50,6 +50,9 @@ Attension mechanism and encoder circuit of tranformer
 ## day 14
 Transformer complete architecture    
 Read lip reading transformer research paper
+## day 15
+made CNN in tensorflow experimented on activation layer ,learning rate and visualization techniques
+
 
 
 
