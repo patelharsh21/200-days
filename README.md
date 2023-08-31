@@ -52,6 +52,8 @@ Transformer complete architecture
 Read lip reading transformer research paper
 ## day 15
 made CNN in tensorflow experimented on activation layer ,learning rate and visualization techniques
+## day 16 
+dowloaded lip reading dataset and worked on implementation of project
 
 
 
