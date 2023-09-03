@@ -56,8 +56,12 @@ made CNN in tensorflow experimented on activation layer ,learning rate and visua
 dowloaded lip reading dataset    
 worked on implementation of project
 ## day 17
-solved shortest path in binary maze
-Worked in implementation of lip reading project
+solved shortest path in binary maze   
+Worked in implementation of lip reading project   
+## day18
+Solved path with minimum efforts    
+Solved 3 questions in the contest    
+
 
 
 
