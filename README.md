@@ -61,6 +61,11 @@ Worked in implementation of lip reading project
 ## day18
 Solved path with minimum efforts    
 Solved 3 questions in the contest    
+## day 19
+Solved 2 question in contest     
+Solved 3rd one afterwards    
+subarrays divisible by k    
+Cheapest flights within k stops   
 
 
 
