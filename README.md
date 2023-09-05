@@ -66,6 +66,9 @@ Solved 2 question in contest
 Solved 3rd one afterwards    
 subarrays divisible by k    
 Cheapest flights within k stops   
+## day 20   
+Started hugging face nlp course
+worked on implementation of lip reading  project
 
 
 
