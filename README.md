@@ -72,6 +72,8 @@ worked on implementation of lip reading  project
 ## day 21
 trained a model in cnn and experimented on different architectures and hyperparameters     
 Completed nlp course chapter -1     
+## day 22
+Completed nlp course chapter -2 
 
 
 
