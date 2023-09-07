@@ -73,7 +73,11 @@ worked on implementation of lip reading  project
 trained a model in cnn and experimented on different architectures and hyperparameters     
 Completed nlp course chapter -1     
 ## day 22
-Completed nlp course chapter -2 
+Completed nlp course chapter -2  and chapter-3 
+## day 23
+Worked on AIFD project   
+Passes coursera week 4 quiz   
+
 
 
 
