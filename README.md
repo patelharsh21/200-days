@@ -78,7 +78,8 @@ Completed nlp course chapter -2  and chapter-3
 Worked on AIFD project   
 Passes coursera week 4 quiz   
 ## day 24 
-Solved Network delay time and Worked on AIFD project
+Solved Network delay time 
+Worked on AIFD project
 
 
 
