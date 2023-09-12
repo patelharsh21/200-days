@@ -83,7 +83,7 @@ Worked on AIFD project
 ## Day 25
 Completed week 4 assign
 ## Day 26
-Solved 	Number of ways to arrive at destination
+Solved 	Number of ways to arrive at destination    
 Worked on the syncnet module and Feature extraction in lip reading project
 ## Day 27 
 Wo
