@@ -87,7 +87,9 @@ Solved 	Number of ways to arrive at destination
 Worked on the syncnet module and Feature extraction in lip reading project
 ## Day 27 
 Setup cuda toolkit and cudnn    
-Created encoder decoder using tensorflow and used encoder for classification task in mnist dataset
+Created encoder decoder using tensorflow and used encoder for classification task in mnist dataset 
+## Day 28
+
 
 
 
