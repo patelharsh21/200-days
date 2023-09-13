@@ -86,7 +86,8 @@ Completed week 4 assign
 Solved 	Number of ways to arrive at destination    
 Worked on the syncnet module and Feature extraction in lip reading project
 ## Day 27 
-Wo
+Setup cuda toolkit and cudnn 
+Created encoder decoder using tensorflow and used encoder for classification task in mnist dataset
 
 
 
