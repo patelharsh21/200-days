@@ -89,6 +89,7 @@ Worked on the syncnet module and Feature extraction in lip reading project
 Setup cuda toolkit and cudnn    
 Created encoder decoder using tensorflow and used encoder for classification task in mnist dataset 
 ## Day 28
+Learned Streamlit
 
 
 
