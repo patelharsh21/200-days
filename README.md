@@ -84,12 +84,14 @@ Worked on AIFD project
 Completed week 4 assign
 ## Day 26
 Solved 	Number of ways to arrive at destination    
-Worked on the syncnet module and Feature extraction in lip reading project
+Worked on the syncnet module and Feature extraction in lip reading projects
 ## Day 27 
 Setup cuda toolkit and cudnn    
 Created encoder decoder using tensorflow and used encoder for classification task in mnist dataset 
 ## Day 28
 Learned Streamlit
+## Day 29
+Worked on AIFD project 
 
 
 
