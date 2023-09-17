@@ -92,6 +92,12 @@ Created encoder decoder using tensorflow and used encoder for classification tas
 Learned Streamlit
 ## Day 29
 Worked on AIFD project 
+## Day 30   
+Attended Amazon ml school   
+Learned about AWS S3 
+Gave contest   
+
+
 
 
 
