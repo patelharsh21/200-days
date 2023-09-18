@@ -96,6 +96,10 @@ Worked on AIFD project
 Attended Amazon ml school   
 Learned about AWS S3 
 Gave contest   
+## Day 31 
+Attended Amazon ml school   
+Gave contest    
+
 
 
 
