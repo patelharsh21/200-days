@@ -99,6 +99,10 @@ Gave contest
 ## Day 31 
 Attended Amazon ml school   
 Gave contest    
+Learned basics about AWS EC2
+## Day32
+Leaned OOPS in Python   
+Worked on  Lip reading project
 
 
 
