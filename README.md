@@ -1,119 +1,134 @@
-## day1
-Read two research papers related to lip reading
-## day2
-Count Subsets with Sum K <br>
-Count Partitions with Given Differnce <br>
-0/1 Knapsack <br>
-Minimum Coins <br>
-Target Sum <br>
-## day3
-Unbounded Knapsack  
-Rod Cutting Proble  
-Longest Common Subsequence    
-Print Longest Common Subsequence  
-## day4
-RNN forward and back prop   
-Different architectures
-## day5
-GRU  
-LSTM  
-BRNN  
-week 1 quiz  
-## day6  
-RNN week 1 assignment 1 and 2
-## day7
-three questions from biweekly contest  
-RNN week 1 assignment 3
-## day 8
-solved 3 questions from contest     
-explored datasets for the lip reading project
-## day 9
-differerent word empbedding methods such as wordtovec and negative sampling  
-## day 10 
-WSL install and using it in vscode  
-solved questions   
-longest common substring   
-check for palindrom   
-minimum insertion to make string palindrom  
-minimum insertion or deletion to make two strings equal  
-## day 11
-applications using word embedding  
-quiz week 2    
-research paper related to AIFD project    
-## day 12  
-Learned about various sequence to sequence models    
-Speech recognition    
-## day 13
-Trigger word detection   
-Attension mechanism and encoder circuit of tranformer   
+## Day 1 - Research Papers on Lip Reading
+- Read two research papers related to lip reading.
 
-## day 14
-Transformer complete architecture    
-Read lip reading transformer research paper
-## day 15
-made CNN in tensorflow experimented on activation layer ,learning rate and visualization techniques
-## day 16 
-dowloaded lip reading dataset    
-worked on implementation of project
-## day 17
-solved shortest path in binary maze   
-Worked in implementation of lip reading project   
-## day18
-Solved path with minimum efforts    
-Solved 3 questions in the contest    
-## day 19
-Solved 2 question in contest     
-Solved 3rd one afterwards    
-subarrays divisible by k    
-Cheapest flights within k stops   
-## day 20   
-Started hugging face nlp course
-worked on implementation of lip reading  project     
-## day 21
-trained a model in cnn and experimented on different architectures and hyperparameters     
-Completed nlp course chapter -1     
-## day 22
-Completed nlp course chapter -2  and chapter-3 
-## day 23
-Worked on AIFD project   
-Passes coursera week 4 quiz   
-## day 24 
-Solved Network delay time 
-Worked on AIFD project
-## Day 25
-Completed week 4 assign
-## Day 26
-Solved 	Number of ways to arrive at destination    
-Worked on the syncnet module and Feature extraction in lip reading projects
-## Day 27 
-Setup cuda toolkit and cudnn    
-Created encoder decoder using tensorflow and used encoder for classification task in mnist dataset 
-## Day 28
-Learned Streamlit
-## Day 29
-Worked on AIFD project 
-## Day 30   
-Attended Amazon ml school   
-Learned about AWS S3 
-Gave contest   
-## Day 31 
-Attended Amazon ml school   
-Gave contest    
-Learned basics about AWS EC2
-## Day32
-Learned OOPS in Python   
-Worked on  Lip reading project
+## Day 2 - Dynamic Programming Problems
+- Count Subsets with Sum K
+- Count Partitions with Given Difference
+- 0/1 Knapsack
+- Minimum Coins
+- Target Sum
 
+## Day 3 - More Dynamic Programming and Algorithms
+- Unbounded Knapsack
+- Rod Cutting Problem
+- Longest Common Subsequence
+- Print Longest Common Subsequence
 
+## Day 4 - Recurrent Neural Networks (RNN)
+- RNN forward and backpropagation
+- Different architectures of RNN
 
+## Day 5 - Deep Learning Architectures
+- GRU (Gated Recurrent Unit)
+- LSTM (Long Short-Term Memory)
+- Bidirectional RNN (BRNN)
+- Completed Week 1 Quiz
 
+## Day 6 - RNN Assignments
+- Completed RNN Week 1 Assignments 1 and 2
 
+## Day 7 - Competitive Programming and RNN Assignment
+- Solved three questions from a biweekly contest
+- Completed RNN Week 1 Assignment 3
 
+## Day 8 - Competitive Programming and Data Exploration
+- Solved three questions from a contest
+- Explored datasets for the lip reading project
 
+## Day 9 - Natural Language Processing
+- Explored different word embedding methods such as Word2Vec and negative sampling
 
+## Day 10 - Tools and Problem Solving
+- Installed WSL and used it in VSCode
+- Solved various algorithmic questions related to strings
 
+## Day 11 - NLP Applications and Research Papers
+- Explored applications using word embeddings
+- Completed Week 2 Quiz
+- Read a research paper related to the AIFD project
 
+## Day 12 - Sequence-to-Sequence Models and Speech Recognition
+- Learned about various sequence-to-sequence models
+- Explored speech recognition techniques
 
+## Day 13 - NLP and Machine Learning
+- Trigger word detection
+- Attention mechanism and encoder circuit of Transformer
 
- 
+## Day 14 - Deep Learning Architectures
+- Learned about the complete architecture of the Transformer
+- Read a research paper related to lip reading using the Transformer
+
+## Day 15 - Deep Learning with TensorFlow
+- Created a CNN model in TensorFlow
+- Experimented with activation layers, learning rates, and visualization techniques
+
+## Day 16 - Deep Learning Project
+- Downloaded lip reading dataset
+- Worked on the implementation of the lip reading project
+
+## Day 17 - Problem Solving and Project Work
+- Solved algorithmic problems (shortest path in binary maze)
+- Continued working on the lip reading project
+
+## Day 18 - More Problem Solving and Contest
+- Solved problems (path with minimum efforts)
+- Participated in a contest and solved 3 questions
+
+## Day 19 - Contest and Algorithmic Problems
+- Solved 2 questions in a contest
+- Later solved the 3rd one
+- Explored problems related to subarrays and flights
+
+## Day 20 - NLP Course and Project
+- Started Hugging Face NLP course
+- Continued working on the lip reading project
+
+## Day 21 - Deep Learning Model Training
+- Trained a CNN model
+- Experimented with different architectures and hyperparameters
+- Completed NLP course chapter 1
+
+## Day 22 - NLP Course
+- Completed NLP course chapters 2 and 3
+
+## Day 23 - Project Work and Learning
+- Worked on the AIFD project
+- Passed Coursera week 4 quiz
+
+## Day 24 - Problem Solving and Project Work
+- Solved "Network Delay Time" problem
+- Continued working on the AIFD project
+
+## Day 25 - Assignment Completion
+- Completed week 4 assignments
+
+## Day 26 - Problem Solving and Project Work
+- Solved "Number of Ways to Arrive at Destination" problem
+- Worked on the SyncNet module and feature extraction in the lip reading project
+
+## Day 27 - Deep Learning Setup and Experimentation
+- Set up CUDA toolkit and cuDNN
+- Created an encoder-decoder using TensorFlow
+- Used encoder for a classification task on the MNIST dataset
+
+## Day 28 - Learning Streamlit
+- Learned about Streamlit
+
+## Day 29 - Project Work
+- Continued working on the AIFD project
+
+## Day 30 - AWS and Contest
+- Attended Amazon ML school
+- Learned about AWS S3
+- Participated in a contest
+
+## Day 31 - AWS and Contest
+- Attended Amazon ML school
+- Learned basics about AWS EC2
+- Participated in a contest
+
+## Day 32 - Python Object-Oriented Programming (OOP) and Project Work
+- Learned OOP in Python
+- Continued working on the lip reading project
 
