@@ -132,3 +132,6 @@
 - Learned OOP in Python
 - Continued working on the lip reading project
 
+## Day 33 
+- Solved 2 questions from past contest in leetcode
+
