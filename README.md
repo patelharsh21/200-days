@@ -136,5 +136,5 @@
 - Solved 2 questions from past contest in leetcode
 
 ## Day 34 
--Understand the code of one of the lip reading project based on transformer
+- Understand the code of one of the lip reading project based on transformer
 
