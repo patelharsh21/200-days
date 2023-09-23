@@ -137,4 +137,6 @@
 
 ## Day 34 
 - Understand the code of one of the lip reading project based on transformer
+## Day 35 
+- Worked on AIFD project
 
