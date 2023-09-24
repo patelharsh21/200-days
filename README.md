@@ -139,4 +139,7 @@
 - Understand the code of one of the lip reading project based on transformer
 ## Day 35 
 - Worked on AIFD project
+## Day 36 
+- cuda and cudnn installation and setup
+- action recognition project 
 
