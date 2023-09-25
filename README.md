@@ -141,5 +141,7 @@
 - Worked on AIFD project
 ## Day 36 
 - cuda and cudnn installation and setup
-- action recognition project 
+- action recognition project
+## Day 37 
+- Selecting project for smart India Hackathon  
 
