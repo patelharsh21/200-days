@@ -143,5 +143,6 @@
 - cuda and cudnn installation and setup
 - action recognition project
 ## Day 37 
-- Selecting project for smart India Hackathon  
+- Selecting project for smart India Hackathon
+## Day 38
 
