@@ -146,4 +146,6 @@
 - Selecting project for smart India Hackathon
 ## Day 38
 -Solved one question on graph
+## Day 39 
+Solved 7 questions on OA of hackOn
 
