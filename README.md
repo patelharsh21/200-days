@@ -147,5 +147,7 @@
 ## Day 38
 -Solved one question on graph
 ## Day 39 
-Solved 7 questions on OA of hackOn
+-Solved 7 questions on OA of hackOn
+## Day 40 
+-Worked on AIFD Project 
 
