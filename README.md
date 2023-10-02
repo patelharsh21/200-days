@@ -150,4 +150,8 @@
 -Solved 7 questions on OA of hackOn
 ## Day 40 
 -Worked on AIFD Project 
+## Day 41     
+-Worked on AIFD Project    
+-Started learning linear algebra for data science
+- 
 
