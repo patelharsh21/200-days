@@ -153,5 +153,6 @@
 ## Day 41     
 -Worked on AIFD Project    
 -Started learning linear algebra for data science
-- 
+## Day 42 
+-Revised ML concepts regression classification clustering and anomaly detection
 
