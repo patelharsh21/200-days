@@ -155,4 +155,6 @@
 -Started learning linear algebra for data science
 ## Day 42 
 -Revised ML concepts regression classification clustering and anomaly detection
+## Day 43 
+-revised remaining ml concepts and DL concepts
 
