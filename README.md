@@ -157,4 +157,6 @@
 -Revised ML concepts regression classification clustering and anomaly detection
 ## Day 43 
 -revised remaining ml concepts and DL concepts
+## Day 44 
+-Switched to ubuntu from windows and downloaded the necessary softwares 
 
