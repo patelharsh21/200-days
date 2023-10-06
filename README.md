@@ -159,4 +159,6 @@
 -revised remaining ml concepts and DL concepts
 ## Day 44 
 -Switched to ubuntu from windows and downloaded the necessary softwares 
+## Day 45 
+Worked on minor project
 
