@@ -160,5 +160,7 @@
 ## Day 44 
 -Switched to ubuntu from windows and downloaded the necessary softwares 
 ## Day 45 
-Worked on minor project
-
+-Worked on minor project
+## Day 46 
+-Worked on on minor project 
+-solved one question on graph
