@@ -166,3 +166,4 @@
 -solved one question on graph
 ## Day 47 
 -Worked on minor project
+-Solved 3 questions on leetcode 
