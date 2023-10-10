@@ -164,3 +164,5 @@
 ## Day 46 
 -Worked on on minor project 
 -solved one question on graph
+## Day 47 
+-Worked on minor project
