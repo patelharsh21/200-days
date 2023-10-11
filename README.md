@@ -166,4 +166,8 @@
 -solved one question on graph
 ## Day 47 
 -Worked on minor project
+-Started a llm based Restourant
 -Solved 3 questions on leetcode 
+## Day 48 
+-build an object detection using yolo   
+-Started llm bases restourant name and menu predictor web app.
