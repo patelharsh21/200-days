@@ -170,4 +170,8 @@
 -Solved 3 questions on leetcode 
 ## Day 48 
 -build an object detection using yolo   
--Started llm bases restourant name and menu predictor web app.
+-llm bases restourant name and menu predictor web app.
+## Day 49 
+-Worked on minor project report and ppt 
+-Worked on  llm based Chat With Web app 
+
