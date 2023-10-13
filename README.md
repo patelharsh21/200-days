@@ -172,9 +172,10 @@
 -build an object detection using yolo   
 -llm bases restourant name and menu predictor web app.
 ## Day 49 
--Worked on minor project report and ppt 
+-Worked on minor project report and ppt     
 -Worked on  llm based Chat With Web app 
 ## Day 50 
 -Minor project mid sem presentation 
+-Made another resume on different template
 
 
