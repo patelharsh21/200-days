@@ -175,7 +175,7 @@
 -Worked on minor project report and ppt     
 -Worked on  llm based Chat With Web app 
 ## Day 50 
--Minor project mid sem presentation 
+-Minor project mid sem presentation    
 -Made another resume on different template
 
 
