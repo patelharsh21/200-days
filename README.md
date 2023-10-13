@@ -166,7 +166,7 @@
 -solved one question on graph
 ## Day 47 
 -Worked on minor project
--Started a llm based Restourant
+-Started a llm based Restourant name suggestion and menu suggestion web app
 -Solved 3 questions on leetcode 
 ## Day 48 
 -build an object detection using yolo   
@@ -174,4 +174,7 @@
 ## Day 49 
 -Worked on minor project report and ppt 
 -Worked on  llm based Chat With Web app 
+## Day 50 
+-Minor project mid sem presentation 
+
 
