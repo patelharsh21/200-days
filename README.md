@@ -177,5 +177,8 @@
 ## Day 50 
 -Minor project mid sem presentation    
 -Made another resume on different template
+## Day 51
+-Completed llm based Chat With Web app 
+-Completed week 2 of Linear algebra course
 
 
