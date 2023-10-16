@@ -182,6 +182,8 @@
 -Completed week 2 of Linear algebra course   
 ## Day 52
 -Completed week 3 and week 4 lab   
--Worked on lip reading model 
+-Worked on lip reading model    
+## Day 53
+-Solved One question on graph(minimum steps to reach from start to end)
 
 
