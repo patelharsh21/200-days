@@ -185,5 +185,10 @@
 -Worked on lip reading model    
 ## Day 53
 -Solved One question on graph(minimum steps to reach from start to end)
+## Day 54    
+-Solved two question on graph   
+-Explored different research papers related to transformers
+  
+
 
 
