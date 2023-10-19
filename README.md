@@ -188,7 +188,9 @@
 ## Day 54    
 -Solved two question on graph   
 -Explored different research papers related to transformers
-## Day 55
+## Day 55  
+-Explored research papers related to action recognition using transformers
+
 
 
 
