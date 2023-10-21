@@ -192,7 +192,8 @@
 -Explored research papers related to action recognition using transformers
 ## Day 56 
 - Understanding code for video classification using transformers
-- 
+## Day 57 
+
 
 
 
