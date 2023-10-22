@@ -193,7 +193,7 @@
 ## Day 56 
 - Understanding code for video classification using transformers
 ## Day 57 
-
+- Worked on aifd project added drewuency domain features and correlation threshold selector 
 
 
 
