@@ -197,7 +197,7 @@
 ## Day 58    
 - Solved 2 questions in the contest     
 - learned aboutyoutube api     
-- learned about densenet     
+- learned about densenet  121
 
 
 
