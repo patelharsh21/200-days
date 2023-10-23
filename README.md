@@ -194,7 +194,10 @@
 - Understanding code for video classification using transformers
 ## Day 57 
 - Worked on aifd project added drewuency domain features and correlation threshold selector 
-
+## Day 58 
+-Solved 2 questions in the contest 
+-learned aboutyoutube api 
+- learned about densenet
 
 
 
