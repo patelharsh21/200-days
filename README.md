@@ -198,8 +198,11 @@
 - Solved 2 questions in the contest     
 - learned aboutyoutube api     
 - learned about densenet  121
+## Day 59 
+-Completed Course1 linear algebra and matrices
 ## Day 59
 - Completed course 2 week 1 for maths for datascience course
+
 
 
 
