@@ -202,6 +202,8 @@
 -Completed Course1 linear algebra and matrices
 ## Day 59
 - Completed course 2 week 1 for maths for datascience course
+## Day 60
+- Completed course 2 week 2 
 
 
 
