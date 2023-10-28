@@ -206,6 +206,7 @@
 - Completed course 2 week 2    
 -  Started learning GAN
 ## Day 61 
+- Completed course 2 week 3
 
 
 
