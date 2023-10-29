@@ -206,7 +206,10 @@
 - Completed course 2 week 2    
 -  Started learning GAN
 ## Day 61 
-- Completed course 2 week 3
+- Completed course 2 week 3 of maths for data science
+## Day 62 
+-Gave online test of paypal 
+
 
 
 
