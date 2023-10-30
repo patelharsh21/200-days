@@ -208,7 +208,9 @@
 ## Day 61 
 - Completed course 2 week 3 of maths for data science
 ## Day 62 
--Gave online test of paypal 
+- Gave online test of paypal 
+## Day 63
+- FASHION GAN project
 
 
 
