@@ -211,7 +211,8 @@
 - Gave online test of paypal 
 ## Day 63
 - FASHION GAN project
-
+## Day 64 
+- Worked on tranformer project cudann and data loading part 
 
 
 
