@@ -212,7 +212,9 @@
 ## Day 63
 - FASHION GAN project
 ## Day 64 
-- Worked on tranformer project cudann and data loading part 
+- Worked on tranformer project cudann and data loading part
+## Day 65
+- Worked on lip reading project data loading and preprocessing part
 
 
 
