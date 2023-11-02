@@ -215,6 +215,10 @@
 - Worked on tranformer project cudann and data loading part
 ## Day 65
 - Worked on lip reading project data loading and preprocessing part
+## Day 66
+- Worked on transformer project data loading part
+- explored different projects
+
 
 
 
