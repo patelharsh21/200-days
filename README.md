@@ -218,6 +218,8 @@
 ## Day 66
 - Worked on transformer project data loading part
 - explored different projects
+## Day 67 
+- Worked on AIFD project
 
 
 
