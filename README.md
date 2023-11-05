@@ -220,6 +220,8 @@
 - explored different projects
 ## Day 67 
 - Worked on AIFD project
+## Day 68
+- Explored different research papers related to beam search
 
 
 
