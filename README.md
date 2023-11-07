@@ -222,6 +222,11 @@
 - Worked on AIFD project
 ## Day 68
 - Explored different research papers related to beam search
+## Day 69 
+- Started natural language to sql query project using langchain
+## Day 70 
+- Solved graph Question
+- Learned about segment trees
 
 
 
