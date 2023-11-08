@@ -227,7 +227,8 @@
 ## Day 70 
 - Solved graph Question
 - Learned about segment trees
-
+## Day 71 
+- Learned disjoint set unit and solved graph problems  
 
 
 
