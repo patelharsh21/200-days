@@ -228,7 +228,8 @@
 - Solved graph Question
 - Learned about segment trees
 ## Day 71 
-- Learned disjoint set unit and solved graph problems  
+- Learned disjoint set unit and solved graph problems
+day 61
 
 
 
