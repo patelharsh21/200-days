@@ -230,7 +230,7 @@
 ## Day 71 
 - Learned disjoint set unit and solved graph problems
 day 61
-
+- Worked on AIFD project
 
 
 
