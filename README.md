@@ -229,9 +229,10 @@
 - Learned about segment trees
 ## Day 71 
 - Learned disjoint set unit and solved graph problems
-day 61
+## day 72
 - Worked on AIFD project
-
+## day 73 
+- Worked on beam search part of transformer project
 
 
 
