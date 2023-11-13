@@ -233,6 +233,8 @@
 - Worked on AIFD project
 ## day 73 
 - Worked on beam search part of transformer project
-
+## Day 74 
+- Worked on beam search part of lip reading project
+- learned about RSA cryptosystem 
 
 
