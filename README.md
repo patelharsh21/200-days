@@ -235,6 +235,8 @@
 - Worked on beam search part of transformer project
 ## Day 74 
 - Worked on beam search part of lip reading project
-- learned about RSA cryptosystem 
+- learned about RSA cryptosystem
+## Day 75 
+- learned AI in fault diagnosis
 
 
