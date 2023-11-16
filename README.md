@@ -238,5 +238,7 @@
 - learned about RSA cryptosystem
 ## Day 75 
 - learned AI in fault diagnosis
+## Day 76
+- learned AI in fault diagnosis
 
 
