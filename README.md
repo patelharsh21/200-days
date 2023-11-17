@@ -240,5 +240,7 @@
 - learned AI in fault diagnosis
 ## Day 76
 - learned AI in fault diagnosis
+## Day 77 
+- learned signal processing techniques
 
 
