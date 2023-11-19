@@ -244,5 +244,7 @@
 - learned signal processing techniques
 ## Day 78
 - Learned explainable ai
+- shape
+- lime
 
 
