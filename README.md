@@ -242,5 +242,7 @@
 - learned AI in fault diagnosis
 ## Day 77 
 - learned signal processing techniques
+## Day 78
+- Learned explainable ai
 
 
