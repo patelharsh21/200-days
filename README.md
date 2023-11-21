@@ -247,5 +247,5 @@
 - shape
 - lime
 ## Day 79
-
+- revised all the DL concepts 
 
