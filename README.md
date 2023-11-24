@@ -247,5 +247,7 @@
 - shape
 - lime
 ## Day 79
-- revised all the DL concepts 
+- revised all the DL concepts
+## Day 80 
+- revised all the concepts of Cryptography
 
