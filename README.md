@@ -250,4 +250,7 @@
 - revised all the DL concepts
 ## Day 80 
 - revised all the concepts of Cryptography
+## Day 81 
+- worked on minor project
+- solved graph questions from striver sheet
 
