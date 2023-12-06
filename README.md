@@ -257,4 +257,5 @@
 - Solved some questions from graph
 ## Day 83
 - Worked on AIFD project
-
+## Day 84 
+- Worked of paper of Stator motor fault project
