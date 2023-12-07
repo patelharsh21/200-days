@@ -258,4 +258,7 @@
 ## Day 83
 - Worked on AIFD project
 ## Day 84 
-- Worked of paper of Stator motor fault project
+- Worked on paper of Stator motor fault project
+## Day 85 
+- solved one question on kadane's algo
+- explored topics and questions asked in AMAZON applied scientist interview
