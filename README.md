@@ -262,3 +262,5 @@
 ## Day 85 
 - solved one question on kadane's algo
 - explored topics and questions asked in AMAZON applied scientist interview
+## Day 86 
+- revised DL concepts
