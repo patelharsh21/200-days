@@ -264,3 +264,6 @@
 - explored topics and questions asked in AMAZON applied scientist interview
 ## Day 86 
 - revised DL concepts
+## Day 87
+- started learning probability
+- completed first lab assignment on sampling from distribution and naive bayes algorithm
