@@ -267,3 +267,5 @@
 ## Day 87
 - started learning probability
 - completed first lab assignment on sampling from distribution and naive bayes algorithm
+## Day 88 
+- Worked on XAI part of AIFD project 
