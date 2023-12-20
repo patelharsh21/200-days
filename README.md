@@ -268,4 +268,6 @@
 - started learning probability
 - completed first lab assignment on sampling from distribution and naive bayes algorithm
 ## Day 88 
-- Worked on XAI part of AIFD project 
+- Worked on XAI part of AIFD project
+## Day 89 
+- Worked on paper writing part of project
