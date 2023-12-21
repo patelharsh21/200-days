@@ -271,3 +271,6 @@
 - Worked on XAI part of AIFD project
 ## Day 89 
 - Worked on paper writing part of project
+## Day 90 
+- Worked on paper writing part of the project
+- learned mean , median ,mode,variance , std, skewness kurtosis 
