@@ -273,4 +273,8 @@
 - Worked on paper writing part of project
 ## Day 90 
 - Worked on paper writing part of the project
-- learned mean , median ,mode,variance , std, skewness kurtosis 
+- learned mean , median ,mode,variance , std, skewness kurtosis
+## Day 91 
+- worked on paper writing part of aifd project
+## Day 92 
+- Setup of the football chatbot project 
