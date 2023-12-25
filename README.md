@@ -277,4 +277,6 @@
 ## Day 91 
 - worked on paper writing part of aifd project
 ## Day 92 
-- Setup of the football chatbot project 
+- Setup of the football chatbot project
+## Day 93
+- Exploring different libraries and ways to develop a chatBOT
