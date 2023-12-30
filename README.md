@@ -280,3 +280,9 @@
 - Setup of the football chatbot project
 ## Day 93
 - Exploring different libraries and ways to develop a chatBOT
+## Day 94
+- Learned about botpress in detail
+## Day 95 
+- learned about rasa in detail
+## Day 96
+- Learned how to integrate LLM in rasa
