@@ -286,3 +286,5 @@
 - learned about rasa in detail
 ## Day 96
 - Learned how to integrate LLM in rasa
+## Day 97
+- solved 2 questions in leetcode contest
