@@ -289,4 +289,7 @@
 ## Day 97
 - solved 2 questions in leetcode contest
 ## Day 98
-- learned to integrate chatGPT in rasa
+- worked to integrate chatGPT in rasa
+## Day 98 
+- worked to fetch data through api
+- 
