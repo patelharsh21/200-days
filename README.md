@@ -294,3 +294,5 @@
 - worked to fetch data through api
 ## Day 99
 - Worked on match prediction functionality of chatbot
+## Day 100
+- Worked on functionality: Getting the team stats on input of team no and season
